@@ -1,0 +1,17 @@
+body
+{
+    text-align: center;
+    background-color: dodgerblue;
+    color: aquamarine;
+    
+}
+img
+{
+  width:500px;
+    height: 500px;
+    border-width: 5px;
+    border-style: groove;
+    border-color: black;
+    border-radius: 20px;
+    box-shadow: 10px 10px 20px black;
+}
